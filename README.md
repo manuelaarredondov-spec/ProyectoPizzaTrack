@@ -12,4 +12,4 @@ Sistema de gestión de pedidos de una pizzería desarrollado en Java.
 Manuela Arredondo
 
 ## Video de sustentación
-Aquí se encuentra el video explicativo del funcionamiento del sistema:
+Aquí se encuentra el video explicativo del funcionamiento del sistema: https://drive.google.com/file/d/1Dp-20PdYmQAnRUGUxawzHiLfjDtK-EgT/view?usp=sharing 
